@@ -1,0 +1,141 @@
+header{
+    /* Rectangle 2 */
+
+position: absolute;
+width: 576px;
+height: 60px;
+
+background: #FFD884;
+}
+main{
+    /* Rectangle 1 */
+
+position: absolute;
+top: 60px;
+width: 576px;
+height: 343px;
+
+background: url(1-8-1764272998.webp);
+}
+footer{
+    /* Rectangle 3 */
+
+position: absolute;
+top: 350px;
+width: 576px;
+height: 62px;
+
+background: #B87F2F;
+}
+.pershi{
+/* НОМЕРОК ТЕЛЕФОНЧИКА */
+
+position: absolute;
+width: 415px;
+height: 39px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+}
+.drylila{
+    /* Рома факт кави */
+
+position: absolute;
+width: 1101px;
+height: 13px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 24px;
+
+color: #000000;
+}
+.shariki{
+    /* Головна */
+
+position: absolute;
+width: 93px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+left: 0300px;
+
+color: #000000;
+
+}
+.shok{
+
+position: absolute;
+width: 38px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+left: 250px;
+
+color: #000000;
+
+}
+.shalynok{
+    /* Квитки */
+
+position: absolute;
+width: 45px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+left: 400px;
+
+color: #000000;
+
+}
+.ppd{
+    /* ВІДЧУЙ ФАКТ КАВИ */
+
+position: absolute;
+width: 610px;
+height: 84px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: white;
+
+border: 1px solid #FFFFFF;
+}
+button{
+    /* Rectangle 4 */
+
+position: absolute;
+width: 254px;
+height: 62px;
+
+background: #DB9600;
+border-radius: 50px;
+}
+.shararalynonok{
+    position: absolute;
+    top: 80px;
+}
